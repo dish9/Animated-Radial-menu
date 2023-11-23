@@ -76,7 +76,7 @@
 }
 
 .Animated-Radial-Menu .menu.active li {
-    transform: rotate(calc(45deg * var(--i))) translateX(0px);
+    transform: rotate(calc(-45deg * var(--i))) translateX(0px);
 }
 
 /*# sourceMappingURL=Animated-Radial-Menu.css.map */
